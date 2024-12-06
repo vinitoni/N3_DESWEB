@@ -55,3 +55,11 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente de desenvolvi
 5. **Troca de Idioma**
 
 - Para mudar o idioma, acesse as configurações do navegador (Google Chrome) e ajuste o idioma preferido para Português ou Inglês.
+
+6.  **Acesso ao ADMIN**
+
+Admin
+E-mail: admin@test.com
+Senha: Admin123
+
+**OS DEMAIS ACESSOS PODEM SER CRIADOS QUE SERÃO CONFIGURADOS NO BANCO DE DADO**
