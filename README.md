@@ -62,4 +62,6 @@ Admin
 E-mail: admin@test.com
 Senha: Admin123
 
+OBS: O View Profile do Admin tem a opção de paginar os usuários listados no Banco de Dados que foram cadastrados.
+
 **OS DEMAIS ACESSOS PODEM SER CRIADOS QUE SERÃO CONFIGURADOS NO BANCO DE DADOS**
