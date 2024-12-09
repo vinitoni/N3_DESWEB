@@ -39,6 +39,7 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente de desenvolvi
 
 3. **Configuração do Firebase**
 
+**PROVAVELMENTE VAI FALTAR A CHAVE DA API DO FIREBASE, QUANDO O PROFESSOR FOR TESTAR PODE ME CHAMAR, POR QUE O GITHUB NÃO ME PERMITIU DEIXAR EXPOSTA**
 -  Crie um projeto no Firebase.
 -  Ative os métodos de login: E-mail/Senha, Google e GitHub.
 -  Configure o Firestore e crie a coleção users com os seguintes campos:
