@@ -13,7 +13,7 @@ import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 
 // Configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCG5Ipy3n97_Q0wuW3OIpRlFWKRorRh8Wg",
+  apiKey: "", // o Github me informou que a chave estava vazada aqui, caso precise para rodar, me chama no privado professor.
   authDomain: "n3desweb.firebaseapp.com",
   projectId: "n3desweb",
   storageBucket: "n3desweb.appspot.com",
