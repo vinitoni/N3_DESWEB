@@ -32,8 +32,7 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente de desenvolvi
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-repositorio/sistema-internacionalizacao.git
-   cd sistema-internacionalizacao
+   git clone https://github.com/vinitoni/N3_DESWEB.git
 
 2. **Instale as Dependências Execute o comando abaixo para instalar todas as bibliotecas necessárias:**
     npm install
